@@ -1,0 +1,26 @@
+forms:
+  rules_menu:
+    title: "&6Rules and Sanctions"
+    content: "&7Select an option:"
+    buttons:
+      - "&aRules"
+      - "&cSanctions"
+
+  rules_message:
+    title: "&eServer Rules"
+    content:
+      - "&f1. No spamming."
+      - "&f2. No hacks."
+      - "&f3. Respect other players."
+    accept_button: "&aAccept"
+    confirmation_message: "&aThank you for reading the server rules!"
+
+  sanctions_message:
+    title: "&cServer Sanctions"
+    content:
+      - "&f1. First warning: &eWarning."
+      - "&f2. Second warning: &e1 day ban."
+      - "&f3. Third warning: &ePermanent ban."
+    accept_button: "&aAccept"
+    confirmation_message: "&aThank you for reading the server sanctions!"
+    
