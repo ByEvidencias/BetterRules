@@ -4,6 +4,7 @@ main: ByEvidencias\Main
 api: 5.0.0
 author: ByEvidencias 
 description: "Rules UI"
+website: https://github.com/ByEvidencias/BetterRules
 
 permissions:
   betterrules.cmd:
