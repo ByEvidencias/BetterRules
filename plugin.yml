@@ -1,0 +1,12 @@
+name: BetterRules
+version: v1.0.0
+main: ByEvidencias\Main
+api: 5.0.0
+author: ByEvidencias 
+description: "Rules UI"
+
+permissions:
+  betterrules.cmd:
+    description: "Allows the user to use /rules"
+    default: true
+    
